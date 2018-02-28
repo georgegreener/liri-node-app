@@ -1,8 +1,8 @@
-# liri-node-app
+# What is LIRI?
 
 LIRI is a Node-based application that can perform basic tasks, including retrieving Tweets, looking up songs on Spotify, and looking up movie information on OMDB.
 
-# how to use
+# How to Use
 
 Use the command line to operate LIRI. You may type "node liri" and then one of three commands, followed by a title of your choosing. The three commands available for you are as follows:
 
