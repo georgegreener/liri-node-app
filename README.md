@@ -15,5 +15,10 @@ No title is needed to retrieve Tweets. However, if you want to look for a song o
     node liri spotify-this-song single+ladies
     node liri movie-this star+wars
 
-LIRI will then return the specific information for those titles.
+You may also use quotes to wrap the query and pass it as a string, such as:
+
+    node liri spotify-this-song "i will always love you"
+    node liri move-this "an american tale"
+
+LIRI will return the relevant content based on either input method.
 
