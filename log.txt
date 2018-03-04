@@ -1,29 +1,94 @@
 
-Artist: Queen
-Title: Don't Stop Me Now - Remastered 2011
-Album: Jazz (Deluxe Remastered Version)
-Preview: null
+Tweet: “If men were born free, they would, so long as they remained free, form no conception of good and evil” – Baruch Spinoza
+Timestamp: Wed Feb 28 21:30:00 +0000 2018
         
-Title: Chicken Run
-Year: 2000
-IMDB Rating: 7.0
-Rotten Tomatoes Rating: 97%
-Country: UK, USA, France
-Language: English
-Plot: When a cockerel apparently flies into a chicken farm, the chickens see him as an opportunity to escape their evil owners.
-Actors: Phil Daniels, Lynn Ferguson, Mel Gibson, Tony Haygarth
+Tweet: “He who is unable to live in society, or who has no need because he is sufficient for himself, must be either a beast or a god” – Aristotle
+Timestamp: Wed Feb 28 21:29:47 +0000 2018
         
-Title: Star Wars: Episode IV - A New Hope
-Year: 1977
-IMDB Rating: 8.6
-Rotten Tomatoes Rating: 93%
-Country: USA
-Language: English
-Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station while also attempting to rescue Princess Leia from the evil Darth Vader.
-Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+Tweet: “This is patently absurd; but whoever wishes to become a philosopher must learn not to be frightened by absurdities” – Bertrand Russell
+Timestamp: Wed Feb 28 21:28:53 +0000 2018
         
-Artist: Mahavishnu Orchestra
-Title: Vital Transformation - Remastered
-Album: The Essential Mahavishnu Orchestra with John McLaughlin
-Preview: https://p.scdn.co/mp3-preview/5f4805483302ae929d4c844b651e395163c0a191?cid=3452638e67504c2290cb0f6a28ea4d0e
+Tweet: “Even while they teach, men learn” – Seneca the Younger
+Timestamp: Wed Feb 28 21:29:17 +0000 2018
         
+Tweet: RT @chick_n_finger: “The unexamined life is not worth living” – Socrates
+Timestamp: Wed Feb 28 21:26:41 +0000 2018
+        
+Tweet: “There is only one good, knowledge, and one evil, ignorance” – Socrates
+Timestamp: Wed Feb 28 21:26:24 +0000 2018
+        
+Tweet: “One cannot step twice in the same river” – Heraclitus
+Timestamp: Wed Feb 28 21:29:05 +0000 2018
+        
+Tweet: "Belief is a wise wager. Granted that faith cannot be proved, what harm will come to you if you gamble on its truth… https://t.co/lMFBRJo6zX
+Timestamp: Wed Feb 28 21:15:43 +0000 2018
+        
+Tweet: “If God did not exist, it would be necessary to invent Him” – Voltaire
+Timestamp: Wed Feb 28 21:08:10 +0000 2018
+        
+Tweet: “He who thinks great thoughts, often makes great errors” – Martin Heidegger
+Timestamp: Wed Feb 28 21:14:24 +0000 2018
+        
+Tweet: “Philosophers have hitherto only interpreted the world in various ways; the point, however, is to change it” – Karl Marx
+Timestamp: Wed Feb 28 21:07:18 +0000 2018
+        
+Tweet: “Happiness is not an ideal of reason but of imagination” – Immanuel Kant
+Timestamp: Wed Feb 28 21:14:07 +0000 2018
+        
+Tweet: “Philosophy is at once the most sublime and the most trivial of human pursuits” – William James
+Timestamp: Wed Feb 28 21:03:48 +0000 2018
+        
+Tweet: “It is wrong always, everywhere and for everyone, to believe anything upon insufficient evidence” – W. K. Clifford
+Timestamp: Wed Feb 28 20:56:59 +0000 2018
+        
+Tweet: “Man is born free, but is everywhere in chains” – Jean-Jacques Rousseau
+Timestamp: Wed Feb 28 20:54:49 +0000 2018
+        
+Tweet: “Whereof one cannot speak, thereof one must be silent” – Ludwig Wittgenstein
+Timestamp: Wed Feb 28 21:05:02 +0000 2018
+        
+Tweet: “That man is wisest who, like Socrates, realizes that his wisdom is worthless” – Plato
+Timestamp: Wed Feb 28 20:54:20 +0000 2018
+        
+Tweet: “The brave man is he who overcomes not only his enemies but his pleasures” – Democritus
+Timestamp: Wed Feb 28 21:03:13 +0000 2018
+        
+Tweet: “The only thing I know is that I know nothing” – Socrates
+Timestamp: Wed Feb 28 20:54:31 +0000 2018
+        
+Tweet: “Man is condemned to be free” – Jean-Paul Sartre
+Timestamp: Wed Feb 28 20:53:56 +0000 2018
+        
+Artist: Ace of Base
+Title: The Sign
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=3452638e67504c2290cb0f6a28ea4d0e
+        
+Artist: Beyoncé
+Title: Single Ladies (Put a Ring on It)
+Album: I AM...SASHA FIERCE
+Preview: https://p.scdn.co/mp3-preview/69c8bae97df9121ee440b23053fe20f64c204408?cid=3452638e67504c2290cb0f6a28ea4d0e
+        
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Phamnode
+
+Title: 2001: A Space Odyssey
+Year: 1968
+IMDB Rating: 8.3
+Rotten Tomatoes Rating: 94%
+Country: UK, USA
+Language: English, Russian
+Plot: Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
+Actors: Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter
+        
+Artist: Backstreet Boys
+Title: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3452638e67504c2290cb0f6a28ea4d0e
+            
